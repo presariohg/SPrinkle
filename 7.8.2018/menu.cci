@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:4CA17E69
+NODE:F LEVEL:0 LINE:18 "clrscr(void)"
+NODE:F LEVEL:0 LINE:23 "gui_init(void)"
+NODE:F LEVEL:0 LINE:45 "gui_print_time(void)"
+NODE:F LEVEL:0 LINE:66 "gui_colon_blink(void)"
+NODE:F LEVEL:0 LINE:76 "gui_set_choice(int co_y,unsigned char * s)"
+NODE:F LEVEL:0 LINE:87 "exe_main_menu(int command)"
+NODE:F LEVEL:0 LINE:105 "gui_cursor_move(int erase_position)"
+NODE:F LEVEL:0 LINE:113 "gui_main_menu(void)"
+NODE:F LEVEL:0 LINE:152 "gui_set_title(unsigned char * s)"
+NODE:F LEVEL:0 LINE:169 "gui_gprs_read(void)"
+NODE:F LEVEL:0 LINE:181 "node_info_examine(struct station_info station_receive)"
